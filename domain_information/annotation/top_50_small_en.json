@@ -1,0 +1,384 @@
+{
+    "pinimg.com": {
+        "category": [
+            "Content-sharing Community Platform"
+        ],
+        "crawl_ai_policy": "Prohibits crawling unconditionally, but no mention of AI",
+        "license_type": "Conditional Commercial Access",
+        "license_type_disagreement": true
+    },
+    "ebayimg.com": {
+        "category": [
+            "Marketplace (E-commerce)"
+        ],
+        "crawl_ai_policy": "Prohibits crawling unconditionally, but no mention of AI",
+        "license_type": "Personal/Noncommercial/Research Only"
+    },
+    "wp.com": {
+        "category": [
+            "Website Hosting Service"
+        ],
+        "crawl_ai_policy": "No restrictions on crawling or AI",
+        "license_type": "Not Applicable"
+    },
+    "cloudfront.net": {
+        "category": [
+            "CDN Provider"
+        ],
+        "crawl_ai_policy": "No restrictions on crawling or AI",
+        "license_type": "Not Applicable"
+    },
+    "wordpress.com": {
+        "category": [
+            "Website Hosting Service"
+        ],
+        "crawl_ai_policy": "No restrictions on crawling or AI",
+        "license_type": "Not Applicable"
+    },
+    "ssl-images-amazon.com": {
+        "category": [
+            "Marketplace (E-commerce)"
+        ],
+        "crawl_ai_policy": "Prohibits crawling unconditionally, but no mention of AI",
+        "license_type": "Personal/Noncommercial/Research Only"
+    },
+    "wixstatic.com": {
+        "category": [
+            "Website Hosting Service"
+        ],
+        "crawl_ai_policy": "Prohibits crawling unconditionally, but no mention of AI",
+        "license_type": "Not Applicable"
+    },
+    "amazonaws.com": {
+        "category": [
+            "CDN Provider"
+        ],
+        "crawl_ai_policy": "No restrictions on crawling or AI",
+        "license_type": "Not Applicable"
+    },
+    "ebaystatic.com": {
+        "category": [
+            "Marketplace (E-commerce)"
+        ],
+        "crawl_ai_policy": "Prohibits crawling unconditionally, but no mention of AI",
+        "license_type": "Personal/Noncommercial/Research Only"
+    },
+    "fastly.net": {
+        "category": [
+            "CDN Provider"
+        ],
+        "crawl_ai_policy": "No restrictions on crawling or AI",
+        "license_type": "Not Applicable"
+    },
+    "gstatic.com": {
+        "category": [
+            "CDN Provider"
+        ],
+        "crawl_ai_policy": "Prohibits crawling and AI conditionally",
+        "license_type": "Not Applicable",
+        "crawl_ai_policy_disagreement": true
+    },
+    "ytimg.com": {
+        "category": [
+            "Content-sharing Community Platform"
+        ],
+        "crawl_ai_policy": "Prohibits crawling unconditionally, but no mention of AI",
+        "license_type": "Personal/Noncommercial/Research Only",
+        "license_type_disagreement": false
+    },
+    "media-amazon.com": {
+        "category": [
+            "Marketplace (E-commerce)"
+        ],
+        "crawl_ai_policy": "Prohibits crawling unconditionally, but no mention of AI",
+        "license_type": "Personal/Noncommercial/Research Only"
+    },
+    "bing.net": {
+        "category": [
+            "CDN Provider"
+        ],
+        "crawl_ai_policy": "Prohibits crawling unconditionally, but no mention of AI",
+        "license_type": "Personal/Noncommercial/Research Only",
+        "license_type_disagreement": false
+    },
+    "fineartamerica.com": {
+        "category": [
+            "Marketplace (E-commerce)"
+        ],
+        "crawl_ai_policy": "Prohibits crawling unconditionally, but no mention of AI",
+        "license_type": "Personal/Noncommercial/Research Only"
+    },
+    "googleusercontent.com": {
+        "category": [
+            "CDN Provider"
+        ],
+        "crawl_ai_policy": "Prohibits crawling and AI conditionally",
+        "license_type": "Not Applicable",
+        "crawl_ai_policy_disagreement": true
+    },
+    "alicdn.com": {
+        "category": [
+            "CDN Provider"
+        ],
+        "crawl_ai_policy": "Prohibits crawling unconditionally, but no mention of AI",
+        "license_type": "Personal/Noncommercial/Research Only",
+        "license_type_disagreement": false,
+        "crawl_ai_policy_disagreement": false
+    },
+    "gravatar.com": {
+        "category": [
+            "Website Hosting Service"
+        ],
+        "crawl_ai_policy": "No restrictions on crawling or AI",
+        "license_type": "Not Applicable"
+    },
+    "nocookie.net": {
+        "category": [
+            "Content-sharing Community Platform"
+        ],
+        "crawl_ai_policy": "Prohibits crawling unconditionally, but no mention of AI",
+        "license_type": "Conditional Commercial Access"
+    },
+    "tripadvisor.com": {
+        "category": [
+            "Content-sharing Community Platform"
+        ],
+        "crawl_ai_policy": "Prohibits crawling unconditionally, but no mention of AI",
+        "license_type": "Conditional Commercial Access",
+        "license_type_disagreement": true,
+        "crawl_ai_policy_disagreement": false
+    },
+    "dreamstime.com": {
+        "category": [
+            "Stock Photo Platform"
+        ],
+        "crawl_ai_policy": "Prohibits crawling unconditionally, but no mention of AI",
+        "license_type": "Conditional Commercial Access"
+    },
+    "blogspot.com": {
+        "category": [
+            "Blog Service"
+        ],
+        "crawl_ai_policy": "Prohibits crawling and AI conditionally",
+        "license_type": "Not Applicable",
+        "license_type_disagreement": true,
+        "crawl_ai_policy_disagreement": true
+    },
+    "etsystatic.com": {
+        "category": [
+            "Marketplace (E-commerce)"
+        ],
+        "crawl_ai_policy": "Prohibits crawling unconditionally, but no mention of AI",
+        "license_type": "Open or Unrestricted Commercial Use",
+        "license_type_disagreement": true
+    },
+    "bigcommerce.com": {
+        "category": [
+            "Marketplace (E-commerce)"
+        ],
+        "crawl_ai_policy": "No restrictions on crawling or AI",
+        "license_type": "Not Applicable",
+        "category_disagreement": true,
+        "license_type_disagreement": true
+    },
+    "images-amazon.com": {
+        "category": [
+            "Marketplace (E-commerce)"
+        ],
+        "crawl_ai_policy": "Prohibits crawling unconditionally, but no mention of AI",
+        "license_type": "Personal/Noncommercial/Research Only",
+        "license_type_disagreement": false
+    },
+    "scene7.com": {
+        "category": [
+            "CDN Provider"
+        ],
+        "crawl_ai_policy": "Prohibits crawling and AI unconditionally",
+        "license_type": "Not Applicable"
+    },
+    "rightmove.co.uk": {
+        "category": [
+            "Marketplace (E-commerce)"
+        ],
+        "crawl_ai_policy": "Prohibits crawling unconditionally, but no mention of AI",
+        "license_type": "Personal/Noncommercial/Research Only"
+    },
+    "scribdassets.com": {
+        "category": [
+            "Content-sharing Community Platform"
+        ],
+        "crawl_ai_policy": "Prohibits crawling unconditionally, but no mention of AI",
+        "license_type": "Personal/Noncommercial/Research Only"
+    },
+    "shutterstock.com": {
+        "category": [
+            "Stock Photo Platform"
+        ],
+        "crawl_ai_policy": "Prohibits crawling and AI unconditionally",
+        "license_type": "Conditional Commercial Access",
+        "crawl_ai_policy_disagreement": false
+    },
+    "rackcdn.com": {
+        "category": [
+            "CDN Provider"
+        ],
+        "crawl_ai_policy": "No restrictions on crawling or AI",
+        "license_type": "Not Applicable"
+    },
+    "bigstockphoto.com": {
+        "category": [
+            "Stock Photo Platform"
+        ],
+        "crawl_ai_policy": "Prohibits crawling and AI unconditionally",
+        "license_type": "Conditional Commercial Access",
+        "crawl_ai_policy_disagreement": false
+    },
+    "cloudinary.com": {
+        "category": [
+            "CDN Provider"
+        ],
+        "crawl_ai_policy": "No restrictions on crawling or AI",
+        "license_type": "Not Applicable"
+    },
+    "made-in-china.com": {
+        "category": [
+            "Marketplace (E-commerce)"
+        ],
+        "crawl_ai_policy": "No restrictions on crawling or AI",
+        "license_type": "Not Applicable"
+    },
+    "google.com": {
+        "category": [
+            "CDN Provider"
+        ],
+        "crawl_ai_policy": "Prohibits crawling and AI conditionally",
+        "license_type": "Not Applicable",
+        "crawl_ai_policy_disagreement": true
+    },
+    "slideserve.com": {
+        "category": [
+            "Content-sharing Community Platform"
+        ],
+        "crawl_ai_policy": "Prohibits crawling unconditionally, but no mention of AI",
+        "license_type": "Conditional Commercial Access"
+    },
+    "depositphotos.com": {
+        "category": [
+            "Stock Photo Platform"
+        ],
+        "crawl_ai_policy": "Prohibits crawling unconditionally, but no mention of AI",
+        "license_type": "Conditional Commercial Access",
+        "crawl_ai_policy_disagreement": false
+    },
+    "ggpht.com": {
+        "category": [
+            "CDN Provider"
+        ],
+        "crawl_ai_policy": "Prohibits crawling and AI conditionally",
+        "license_type": "Not Applicable",
+        "crawl_ai_policy_disagreement": true
+    },
+    "squarespace-cdn.com": {
+        "category": [
+            "Website Hosting Service"
+        ],
+        "crawl_ai_policy": "Prohibits crawling unconditionally, but no mention of AI",
+        "license_type": "Not Applicable",
+        "crawl_ai_policy_disagreement": false
+    },
+    "teacherspayteachers.com": {
+        "category": [
+            "Marketplace (E-commerce)"
+        ],
+        "crawl_ai_policy": "No restrictions on crawling or AI",
+        "license_type": "Personal/Noncommercial/Research Only"
+    },
+    "ftcdn.net": {
+        "category": [
+            "CDN Provider"
+        ],
+        "crawl_ai_policy": "Prohibits crawling and AI unconditionally",
+        "license_type": "Not Applicable"
+    },
+    "st-hatena.com": {
+        "category": [
+            "Blog Service"
+        ],
+        "crawl_ai_policy": "No restrictions on crawling or AI",
+        "license_type": "Not Applicable",
+        "license_type_disagreement": true
+    },
+    "zcache.com": {
+        "category": [
+            "Marketplace (E-commerce)"
+        ],
+        "crawl_ai_policy": "Prohibits crawling unconditionally, but no mention of AI",
+        "license_type": "Personal/Noncommercial/Research Only",
+        "category_disagreement": false,
+        "crawl_ai_policy_disagreement": false,
+        "license_type_disagreement": false
+    },
+    "muscache.com": {
+        "category": [
+            "Marketplace (E-commerce)"
+        ],
+        "crawl_ai_policy": "Prohibits crawling unconditionally, but no mention of AI",
+        "license_type": "Personal/Noncommercial/Research Only"
+    },
+    "4sqi.net": {
+        "category": [
+            "Other"
+        ],
+        "crawl_ai_policy": "Prohibits crawling unconditionally, but no mention of AI",
+        "license_type": "Personal/Noncommercial/Research Only",
+        "category_disagreement": true,
+        "license_type_disagreement": true
+    },
+    "shoplightspeed.com": {
+        "category": [
+            "Marketplace (E-commerce)"
+        ],
+        "crawl_ai_policy": "Prohibits crawling unconditionally, but no mention of AI",
+        "license_type": "Not Applicable",
+        "category_disagreement": true,
+        "crawl_ai_policy_disagreement": false,
+        "license_type_disagreement": false
+    },
+    "sparkplatform.com": {
+        "category": [
+            "Other"
+        ],
+        "crawl_ai_policy": "Prohibits crawling unconditionally, but no mention of AI",
+        "license_type": "Conditional Commercial Access"
+    },
+    "tumblr.com": {
+        "category": [
+            "Content-sharing Community Platform"
+        ],
+        "crawl_ai_policy": "Prohibits crawling unconditionally, but no mention of AI",
+        "license_type": "Personal/Noncommercial/Research Only",
+        "category_disagreement": true
+    },
+    "slidesharecdn.com": {
+        "category": [
+            "Content-sharing Community Platform"
+        ],
+        "crawl_ai_policy": "Prohibits crawling unconditionally, but no mention of AI",
+        "license_type": "Personal/Noncommercial/Research Only"
+    },
+    "imgix.net": {
+        "category": [
+            "CDN Provider"
+        ],
+        "crawl_ai_policy": "No restrictions on crawling or AI",
+        "license_type": "Not Applicable"
+    },
+    "blogimg.jp": {
+        "category": [
+            "Blog Service"
+        ],
+        "crawl_ai_policy": "Prohibits crawling unconditionally, but no mention of AI",
+        "license_type": "Not Applicable",
+        "license_type_disagreement": true
+    }
+}
