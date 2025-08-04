@@ -1,0 +1,31 @@
+# environment.yml
+name: tracing-data-consent-env
+channels:
+  - huggingface
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - dnspython
+  - ipykernel
+  - numpy
+  - pandas
+  - pillow
+  - pydantic
+  - python-dotenv
+  - tqdm
+  - seaborn
+  - datasets=3.6.0
+  - albumentations=1.3.0
+  - streamlit
+  - tldextract
+  - trafilatura
+  - webdataset
+  - wordcloud
+  - pip:
+      - highlight-text
+      - lxml[html_clean]
+      - cc2dataset
+      - python-whois
+      - img2dataset
